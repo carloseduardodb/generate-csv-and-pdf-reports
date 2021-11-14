@@ -17,6 +17,7 @@ $ npm install
 ```
 - Preencha o arquivo `src/imap-listener/config.example.ts` e o renomeie 
 para config.ts. 
+- Adicione uma pasta com o nome temp no diretório root do projeto
 
 ## Rodando o aplicativo
 
